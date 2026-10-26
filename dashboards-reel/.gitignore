@@ -1,0 +1,6 @@
+out/stills/
+out/*.log
+out/video.mp4
+out/seg*.mp4
+out/sheet.png
+out/check.png
